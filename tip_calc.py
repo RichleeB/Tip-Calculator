@@ -11,4 +11,4 @@ patrons = int(input("Number of people splitting the bill: "))
 
 amount_due = total_bill / patrons 
 
-print(f"Each person should pay {amount_due}")
+print(f"Each person should pay {amount_due:.2f}")
