@@ -1,4 +1,4 @@
-print("Please use this tip calculator")
+print("Use this tip calculator")
 bill = float(input("What was the total bill? "))
 tip = int(input("How much % would you like to give? Please enter 10 , 12, or 15. Anything less and you are too cheap to need this calculator.. Enter number:  "))
 
