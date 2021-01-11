@@ -7,7 +7,7 @@ tip_calc = bill * tip/100
 
 total_bill = bill + tip_calc
 
-patrons = int(input("Number of people splitting the bill: "))
+patrons = int(input("How many people splitting the bill?: "))
 
 amount_due = total_bill / patrons 
 
